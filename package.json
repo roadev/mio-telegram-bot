@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/roadev/mio-telegram-bot/issues"
   },
-  "homepage": "https://github.com/roadev/mio-telegram-bot#readme"
+  "homepage": "https://github.com/roadev/mio-telegram-bot#readme",
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "express": "^4.15.4",
+    "isomorphic-fetch": "^2.2.1",
+    "node-telegram-bot-api": "^0.28.0"
+  }
 }
